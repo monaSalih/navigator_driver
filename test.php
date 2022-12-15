@@ -1,6 +1,4 @@
 <?php
-echo ("test");
-echo ('mona');
 echo ("talab yaseen");
-print_r(['aqaba','amman','']);
+print_r(['aqaba','amman','mona']);
 ?>
